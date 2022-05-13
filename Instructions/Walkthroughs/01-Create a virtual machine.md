@@ -2,12 +2,12 @@
 wts:
   title: 01 - ポータルで仮想マシンを作成する (10 分)
   module: Module 02 - Core Azure Services (Workloads)
-ms.openlocfilehash: 2e2a613f965d41405b025166876b28be391f10d8
-ms.sourcegitcommit: 26c283fffdd08057fdce65fa29de218fff21c7d0
+ms.openlocfilehash: 010d6a19a66f6ac92627720379a4eb850b2ee423
+ms.sourcegitcommit: 4a0bfef63f98844f16e2a364d156e96382b8fac5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137908375"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "144556872"
 ---
 # <a name="01---create-a-virtual-machine-in-the-portal-10-min"></a>01 - ポータルで仮想マシンを作成する (10 分)
 
@@ -18,7 +18,7 @@ ms.locfileid: "137908375"
 # <a name="task-1-create-the-virtual-machine"></a>タスク 1:仮想マシンを作成する 
 1. Azure portal ( **https://portal.azure.com** ) にサインインします。
 
-3. ポータル メニューの「**すべてのサービス**」ブレードから、**仮想マシン** を検索して選択し、 **「+ 追加」、「+ 作成」、「+ 新規」** の順にクリックして、ドロップダウンから「 **+ 仮想マシン**」を選択します。
+3. ポータル メニューの **[すべてのサービス]** ブレードから、 **[仮想マシン]** を検索して選択し、 **[+ 作成]** をクリックし、ドロップダウンから **[+ Azure 仮想マシン]** を選択します。
 
 4. 「**基本**」タブで、次の情報を入力します (その他の情報は既定値のままにします)。
 
