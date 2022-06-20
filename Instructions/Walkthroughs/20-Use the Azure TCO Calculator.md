@@ -28,7 +28,7 @@ ms.locfileid: "137908655"
     | -- | -- |
     | 名前 | **サーバー: Windows VM** |
     | ワークロード | **Windows/Linux サーバー** |
-    | 環境 | **仮想マシン** |
+    | 環境 | **Virtual Machines** |
     | オペレーティング システム | **Windows** |  
     | VM | **50** |
     | 仮想化 | **Hyper-V** |
@@ -43,7 +43,7 @@ ms.locfileid: "137908655"
     | -- | -- |
     | 名前 | **サーバー: Linux VM** |
     | ワークロード | **Windows/Linux サーバー** |
-    | 環境 | **仮想マシン** |
+    | 環境 | **Virtual Machines** |
     | オペレーティング システム | **Linux** |  
     | VM | **50** |
     | 仮想化 | **VMware** |
