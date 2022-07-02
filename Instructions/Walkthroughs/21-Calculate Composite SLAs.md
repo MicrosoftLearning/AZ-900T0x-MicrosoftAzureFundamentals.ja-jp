@@ -22,7 +22,7 @@ ms.locfileid: "137907690"
 
 # <a name="task-1-determine-the-sla-uptime-percentage-values-for-our-application"></a>タスク 1:アプリケーションの SLA アップタイムのパーセンテージ値を決定します。
 
-1. ブラウザーで、「 [Azureサービスの SLA サマリー](https://azure.microsoft.com/en-us/support/legal/sla/summary/)」ページに移動します。
+1. ブラウザーで、[[Azure サービスの SLA サマリー]](https://azure.microsoft.com/en-us/support/legal/sla/summary/) ページに移動します。
 
 2. **アプリ サービス** の SLA アップタイム値 **99.95%** を見つけます。 **[詳細の表示]** をクリックし、 **[SLA の詳細]** を展開します。 **[月間アップタイム率]** と **[サービス クレジット]** を確認します。
 
